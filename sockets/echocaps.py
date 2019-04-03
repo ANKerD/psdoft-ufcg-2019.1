@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# Anderson Kleber Dantas - 117110537
+# anderson.dantas@ccc.ufcg.edu.br
 import sys 
 import socket
 
