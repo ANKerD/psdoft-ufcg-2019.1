@@ -1,4 +1,4 @@
-package br.edu.ufcg.anderson.dantas.lab1;
+package br.edu.ufcg.ccc.anderson.dantas.lab1;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
